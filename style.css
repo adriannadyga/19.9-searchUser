@@ -1,0 +1,32 @@
+form {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 30px;
+}
+
+form label {
+    padding-right: 50px;
+}
+
+form input {
+    text-align: center;
+}
+
+.users {
+    text-align: center;
+}
+
+.users .user {
+    padding: 20px;
+}
+
+.users .user a {
+    padding-left: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.users .user a:hover {
+    color: #d30808b7;
+}
